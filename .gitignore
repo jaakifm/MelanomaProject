@@ -1,0 +1,10 @@
+#pesos modelo_1_torch and modelo_1
+ProyectoMelanoma\PROYECTO FINAL\COMPUTER VISION\melanoma_model_1.pth
+ProyectoMelanoma\PROYECTO FINAL\COMPUTER VISION\melanoma_model_1_weights.h5
+
+#images
+images/*
+
+#dataset_papers
+dataset_papers/*
+
